@@ -519,3 +519,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp) - CSOAI Governance Crosswalk MCP — 12 global AI frameworks mapped through CSOAI's 52-article Partnership Charter. Regulation-to-regulation bridging, compliance gap analysis, unified governance queries.
