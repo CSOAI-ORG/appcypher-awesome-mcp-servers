@@ -452,6 +452,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+
+<!-- MEOK AI Labs — EU compliance + governance MCPs -->
+- [MEOK Omnibus Tracker](https://github.com/CSOAI-ORG/meok-omnibus-tracker-mcp) - Track all 8 EU AI Act + GDPR + DORA Digital Omnibus cliff dates and live status of every regulatory delay. By MEOK AI Labs.
+- [MEOK Watermark Attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 watermarking compliance — C2PA, content provenance, deepfake disclosure (November 2026 cliff). By MEOK AI Labs.
+- [MEOK CRA Annex IV Classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier with HMAC-signed compliance attestations. By MEOK AI Labs.
+- [MEOK NIS2 DE Register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) - Germany NIS2 BSI register product — Section 30/32 reporting timelines and KRITIS classifications. By MEOK AI Labs.
+- [MEOK MCP Injection Scan](https://github.com/CSOAI-ORG/meok-mcp-injection-scan-mcp) - 30+ canonical detection rules across 5 severity tiers for the April 2026 Anthropic MCP RCE class. By MEOK AI Labs.
+
 ## 🔌 <a name="iot"></a>IoT
 
 > Tools that integrate with Internet of Things connectivity.
