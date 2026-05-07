@@ -460,6 +460,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- [EU AI Act Compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - EU AI Act risk classification, 42-point audit, documentation generation, penalties and deadlines. By [MEOK AI Labs](https://meok.ai).
+- [DORA Compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) - DORA financial resilience compliance for ICT risk management, incident reporting and third-party oversight. By [MEOK AI Labs](https://meok.ai).
+- [NIS2 Compliance](https://github.com/CSOAI-ORG/nis2-compliance-mcp) - NIS2 cybersecurity directive compliance checking for essential and important entities. By [MEOK AI Labs](https://meok.ai).
+- [GDPR Compliance AI](https://github.com/CSOAI-ORG/gdpr-compliance-ai-mcp) - GDPR compliance for AI/ML systems covering data protection impact assessments and lawful basis. By [MEOK AI Labs](https://meok.ai).
+- [HIPAA Compliance](https://github.com/CSOAI-ORG/hipaa-compliance-mcp) - HIPAA healthcare compliance checking for covered entities and business associates. By [MEOK AI Labs](https://meok.ai).
+- [CRA Compliance](https://github.com/CSOAI-ORG/cra-compliance-mcp) - EU Cyber Resilience Act compliance for products with digital elements. By [MEOK AI Labs](https://meok.ai).
+- [Governance Engine](https://github.com/CSOAI-ORG/meok-governance-engine-mcp) - Multi-framework governance engine spanning 13 regulatory frameworks including EU AI Act, DORA, NIS2, GDPR, SOC2 and ISO 27001. By [MEOK AI Labs](https://meok.ai).
+- [Watermark Attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 AI-generated content watermarking with C2PA attestation. By [MEOK AI Labs](https://meok.ai).
 
 <br />
 
