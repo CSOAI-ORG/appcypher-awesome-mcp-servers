@@ -460,6 +460,11 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- [EU AI Act Compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - EU AI Act compliance checks including Article 6 risk classification, 42-point audit, Annex IV documentation generation, penalty calculator, and HMAC-signed attestations. Tracks Digital Omnibus deadline changes.
+- [DORA Compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) - EU Digital Operational Resilience Act compliance for financial services — ICT risk management, incident reporting, third-party oversight, and resilience testing assessments.
+- [NIS2 Compliance](https://github.com/CSOAI-ORG/nis2-compliance-mcp) - EU NIS2 Directive compliance for critical infrastructure — essential/important entity classification, security measures gap analysis, and incident reporting workflows.
+- [CRA Compliance](https://github.com/CSOAI-ORG/cra-compliance-mcp) - EU Cyber Resilience Act compliance — Annex IV classification, vulnerability handling, SBOM requirements, and CE marking readiness for products with digital elements.
+- [MCP Prompt Injection Scanner](https://github.com/CSOAI-ORG/meok-mcp-injection-scan-mcp) - Detects prompt injection attacks in MCP tool inputs — OWASP LLM Top 10 coverage, real-time scanning, and severity scoring for AI agent security.
 
 <br />
 
