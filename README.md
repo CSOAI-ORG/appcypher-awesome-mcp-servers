@@ -463,6 +463,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+## ⚖️ <a name="governance-compliance"></a>Governance & Compliance
+
+> Tools for AI governance, regulatory compliance, audit evidence, and risk management. Covers EU AI Act, DORA, NIS2, CRA, GDPR, MDR, FDA SaMD, MiCA, AML, and US/UK sectoral frameworks.
+
+- <img src="https://meok.ai/favicon.ico" height="14"/> [MEOK Governance Suite](https://github.com/CSOAI-ORG) - 38 production AI compliance MCP servers from MEOK AI Labs. Covers EU AI Act (Article 50 watermarking, Annex IV evidence, Annex III high-risk), DORA (ICT risk + third-party register), NIS2 (10 governance domains), CRA (SBOM + Annex I classifier), MiCA, MDR/FDA SaMD, COPPA/FERPA, AML/Basel III/MiFID II, and cyber primitives (CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore, SBOM/CycloneDX). HMAC-signed compliance attestations. Install via `npx meok-setup --pack governance` (or `--pack all`).
+
+<br />
+
 ## 🔌 <a name="iot"></a>IoT
 
 > Tools that integrate with Internet of Things connectivity.
